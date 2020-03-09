@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bushaekaih.queuedlab.com/sitemap.xml
